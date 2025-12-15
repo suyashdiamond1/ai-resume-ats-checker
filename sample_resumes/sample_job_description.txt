@@ -1,0 +1,55 @@
+Senior Full-Stack Developer Position
+
+We are seeking a talented Senior Full-Stack Developer to join our growing engineering team.
+
+REQUIRED QUALIFICATIONS:
+• 5+ years of professional software development experience
+• Strong proficiency in Python and JavaScript/TypeScript
+• Experience with modern frontend frameworks (React, Vue, or Angular)
+• Expertise in building RESTful APIs and microservices
+• Solid understanding of database design (PostgreSQL, MongoDB)
+• Experience with AWS cloud services (EC2, S3, Lambda, RDS)
+• Proficiency with Docker and container orchestration (Kubernetes)
+• Strong knowledge of Git version control and CI/CD practices
+• Experience with Agile/Scrum methodologies
+
+PREFERRED QUALIFICATIONS:
+• Experience with FastAPI or Django for Python backend development
+• Knowledge of Redis for caching and session management
+• Experience with GraphQL
+• Familiarity with Terraform or CloudFormation for infrastructure as code
+• Experience with monitoring tools (Prometheus, Grafana, DataDog)
+• Understanding of security best practices and OAuth 2.0
+• Experience with test-driven development (TDD)
+• Contributions to open-source projects
+
+RESPONSIBILITIES:
+• Design and develop scalable full-stack web applications
+• Build and maintain RESTful APIs and microservices
+• Collaborate with product managers and designers to implement features
+• Write clean, maintainable, and well-documented code
+• Conduct code reviews and mentor junior developers
+• Optimize application performance and scalability
+• Deploy and maintain applications on AWS infrastructure
+• Participate in architecture discussions and technical planning
+• Troubleshoot and debug production issues
+
+TECHNICAL STACK:
+• Backend: Python (FastAPI/Django), Node.js
+• Frontend: React, TypeScript, Redux
+• Database: PostgreSQL, MongoDB, Redis
+• Cloud: AWS (EC2, S3, Lambda, RDS, ECS)
+• DevOps: Docker, Kubernetes, GitHub Actions, Jenkins
+• Monitoring: Prometheus, Grafana
+• Testing: pytest, Jest, Cypress
+
+BENEFITS:
+• Competitive salary ($120K - $160K based on experience)
+• Health, dental, and vision insurance
+• 401(k) with company match
+• Flexible work arrangements (hybrid/remote options)
+• Professional development budget
+• Latest tech equipment
+• Collaborative and innovative work environment
+
+We are an equal opportunity employer committed to diversity and inclusion.

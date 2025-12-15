@@ -1,0 +1,60 @@
+JOHN DOE
+Software Engineer
+john.doe@email.com | (555) 123-4567 | linkedin.com/in/johndoe | github.com/johndoe
+
+PROFESSIONAL SUMMARY
+Results-driven Software Engineer with 5+ years of experience in full-stack development. Proficient in Python, JavaScript, React, and AWS. Proven track record of building scalable web applications and RESTful APIs. Strong problem-solving skills and passion for clean, maintainable code.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, HTML, CSS
+Frameworks: React, Node.js, FastAPI, Django, Flask, Express.js
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, Git, GitHub Actions
+Tools: VS Code, Postman, Jest, pytest, Webpack, Vite
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | Tech Solutions Inc.
+January 2021 - Present
+• Led development of microservices architecture serving 1M+ users using Python FastAPI and Docker
+• Implemented RESTful APIs with 99.9% uptime and average response time under 100ms
+• Reduced application load time by 40% through code optimization and caching strategies
+• Mentored 3 junior developers and conducted code reviews ensuring best practices
+• Deployed containerized applications on AWS ECS with automated CI/CD pipelines
+
+Software Developer | Digital Innovations LLC
+June 2019 - December 2020
+• Developed responsive web applications using React and TypeScript
+• Built backend services with Node.js and Express, integrating with MongoDB
+• Implemented authentication and authorization using JWT and OAuth 2.0
+• Collaborated with cross-functional teams in Agile/Scrum environment
+• Wrote unit and integration tests achieving 85% code coverage
+
+Junior Developer | StartUp Ventures
+January 2018 - May 2019
+• Created data visualization dashboards using React and D3.js
+• Developed Python scripts for data processing and ETL pipelines
+• Worked with PostgreSQL databases and optimized complex queries
+• Participated in daily stand-ups and sprint planning meetings
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Technology | 2017
+GPA: 3.8/4.0
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Google Cloud Professional Cloud Architect
+
+PROJECTS
+
+E-Commerce Platform | github.com/johndoe/ecommerce
+• Built full-stack e-commerce platform with React, Node.js, and PostgreSQL
+• Implemented payment integration with Stripe API
+• Deployed on AWS with auto-scaling capabilities
+
+Real-Time Chat Application | github.com/johndoe/chat-app
+• Developed real-time messaging app using React, Socket.io, and Redis
+• Implemented end-to-end encryption for secure communications
+• Supports 10,000+ concurrent connections
