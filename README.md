@@ -1,5 +1,11 @@
 # 🎯 AI Resume ATS Checker
 
+## 🌐 [Try Live Demo](https://ai-resume-ats-checker-smoky.vercel.app/)
+
+> 🎯 **Live & Production Ready!** Test the application right now with your own resume.
+
+---
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-green.svg)](https://fastapi.tiangolo.com/)
@@ -288,6 +294,24 @@ Please ensure:
 - Code follows PEP 8 (Python) and ESLint standards (JavaScript)
 - Tests are included for new features
 - Documentation is updated
+
+## 🚀 Deployment
+
+This project is **live and production-ready** on the cloud!
+
+| Component | Platform | Status | URL |
+|-----------|----------|--------|-----|
+| **Frontend** | Vercel | ✅ Live | https://ai-resume-ats-checker-smoky.vercel.app |
+| **Backend** | Render | ✅ Live | https://ai-resume-ats-checker.onrender.com |
+| **Repository** | GitHub | ✅ Open Source | https://github.com/suyashdiamond1/ai-resume-ats-checker |
+
+### Quick Features:
+- ✅ **Instant Deploy**: Push to GitHub, auto-deploys in seconds
+- ✅ **Free Hosting**: Both Vercel and Render free tiers
+- ✅ **Production Ready**: Optimized for performance and reliability
+- ✅ **Scalable**: Can upgrade anytime for more resources
+
+
 
 ## 📝 License
 
